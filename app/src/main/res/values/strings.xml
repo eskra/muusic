@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">muusic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+=======
+<resources>
+    <string name="app_name">muusic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> 435e36c8340c3a2fcd66fa8be34efe1c6aec60de
+</resources>
